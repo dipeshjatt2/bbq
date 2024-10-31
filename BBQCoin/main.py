@@ -37,8 +37,8 @@ headers = {
     'x-requested-with': 'org.telegram.messenger',
 }
 
-user_id = '123456789'#telegram user ID
-taps = '3000' #amount of taps
+user_id = '5203820046'#telegram user ID
+taps = '3000000' #amount of taps
 def bbq_tap():
     data = {
         'id_user':user_id,
